@@ -1,10 +1,10 @@
 ---
 myst:
   html_meta:
-    "description": ""
-    "property=og:description": ""
-    "property=og:title": ""
-    "keywords": ""
+    "description": "Desenvolvimento Plone 6"
+    "property=og:description": "O curso Desenvolvimento Plone 6 pretende ser um treinamento para aprender práticas comprovadas de desenvolvimento Plone"
+    "property=og:title": "Desenvolvimento Plone 6"
+    "keywords": "Desenvolvimento, Plone"
 ---
 
 (desenvolvimento-label)=

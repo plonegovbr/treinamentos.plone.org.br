@@ -1,10 +1,10 @@
 ---
 myst:
   html_meta:
-    "description": ""
-    "property=og:description": ""
-    "property=og:title": ""
-    "keywords": ""
+    "description": "Desenvolvimento Plone 5"
+    "property=og:description": "Desenvolvimento Plone 5"
+    "property=og:title": "Desenvolvimento Plone 5"
+    "keywords": "Desenvolvimento, Plone"
 ---
 
 (desenvolvimento-plone5-label)=

@@ -1,10 +1,10 @@
 ---
 myst:
   html_meta:
-    "description": ""
-    "property=og:description": ""
-    "property=og:title": ""
-    "keywords": ""
+    "description": "Treinamentos"
+    "property=og:description": "Uma coleção de treinamentos desenvolvidos e criados pela Comunidade Plone."
+    "property=og:title": "Treinamentos"
+    "keywords": "Treinamentos, Plone"
 ---
 
 # Treinamentos
@@ -16,6 +16,16 @@ Uma coleção de treinamentos desenvolvidos e criados pela Comunidade Plone.
 :maxdepth: 2
 :hidden: true
 
-desenvolvimento/index
 desenvolvimento-plone5/index
+tema-plone5/index
+
+```
+
+```{toctree}
+:caption: Treinamentos Plone
+:maxdepth: 1
+:hidden: true
+
+glossario
+contribuindo/index
 ```

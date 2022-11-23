@@ -1,10 +1,10 @@
 ---
 myst:
   html_meta:
-    "description": ""
-    "property=og:description": ""
-    "property=og:title": ""
-    "keywords": ""
+    "description": "O que é o Plone?"
+    "property=og:description": "O Plone é um Sistema de Gerenciamento de Conteúdo (CMS) de código aberto construído em Python."
+    "property=og:title": "O que é o Plone?"
+    "keywords": "Plone, CMS"
 ---
 
 (plone5-o-que-label)=

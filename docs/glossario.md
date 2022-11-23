@@ -1,10 +1,10 @@
 ---
 myst:
   html_meta:
-    "description": ""
-    "property=og:description": ""
-    "property=og:title": "Glossary"
-    "keywords": ""
+    "description": "Glossário"
+    "property=og:description": "Glossário"
+    "property=og:title": "Glossário"
+    "keywords": "Glossário"
 ---
 
 (glossario-label)=

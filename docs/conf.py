@@ -130,13 +130,13 @@ html_extra_path = [
     "robots.txt",
 ]
 
-html_baseurl = "https://training.plone.org/5"
+html_baseurl = "https://treinamentos.plone.org.br"
 sitemap_url_scheme = "{link}"
 
 html_static_path = ["_static"]
 
 html_theme_options = {
-    "repository_url": "https://github.com/plone/training",
+    "repository_url": "https://github.com/plonegovbr/treinamentos",
     "repository_branch": "main",
     "path_to_docs": "docs",
     "use_repository_button": True,
@@ -144,8 +144,8 @@ html_theme_options = {
     "use_edit_page_button": True,
     "extra_navbar": f"""
         <p class="ploneorglink">
-            <a href="https://plone.org">
-                <img src="{html_baseurl}/_static/logo.svg" alt="plone.org" /> plone.org</a>
+            <a href="https://plone.org.br">
+                <img src="{html_baseurl}/_static/logo.svg" alt="plone.org.br" /> plone.org.br</a>
         </p>""",
 }
 
@@ -166,13 +166,13 @@ graphviz_output_format = "svg"
 
 # -- Configuração OpenGraph ----------------------------------
 
-ogp_site_url = "https://training.plone.org/5/"
+ogp_site_url = "https://treinamentos.plone.org.br"
 ogp_description_length = 200
-ogp_image = "https://training.plone.org/5/_static/Plone_logo_square.png"
-ogp_site_name = "Plone Training"
+ogp_image = "https://treinamentos.plone.org.br/_static/Plone_logo_square.png"
+ogp_site_name = "Treinamentos Plone"
 ogp_type = "website"
 ogp_custom_meta_tags = [
-    '<meta property="og:locale" content="en_US" />',
+    '<meta property="og:locale" content="pt_BR" />',
 ]
 
 # -- sphinx_copybutton -----------------------
