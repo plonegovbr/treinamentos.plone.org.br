@@ -1,0 +1,7 @@
+# Proibir todos os agentes de usuário dos seguintes diretórios e arquivos
+User-agent: *
+Disallow: /_sources/
+Disallow: /.doctrees/
+Disallow: /*.txt$
+Disallow: /.buildinfo$
+Disallow: /objects.inv$
