@@ -6,19 +6,20 @@ myst:
     "property=og:title": "Treinamentos"
     "keywords": "Treinamentos, Plone"
 ---
-
+(treinamentos-label)=
 # Treinamentos
 
 Uma coleção de treinamentos desenvolvidos e criados pela Comunidade Plone.
 
 ```{toctree}
-:caption: Training Overview
+:caption: Visão Geral
 :maxdepth: 2
 :hidden: true
 
 desenvolvimento-plone5/index
 tema-plone5/index
 
+atualizacao/index
 ```
 
 ```{toctree}

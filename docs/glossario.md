@@ -11,7 +11,7 @@ myst:
 
 # Glossário
 
-```{glossario}
+```{glossary}
 :sorted: true
 
 ZODB
@@ -29,3 +29,4 @@ CSS
 Diazo
     [Guia do mecanismo do tema Diazo](https://docs.diazo.org/en/latest/).
     O Diazo permite que você aplique um tema contido em uma página da Web HTML estática a um site dinâmico criado usando qualquer tecnologia do lado do servidor.
+```
